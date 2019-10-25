@@ -42,4 +42,4 @@ module PersonalSite
   end
 end
 
-SITE_NAME = '杜骁的技术站点-ruby/rails/ios/全栈攻城狮/jquery/直男'
+SITE_NAME = '陈龙辉的技术站点-全栈工程师(ruby/rails/php/vuejs)'
